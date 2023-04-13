@@ -38,7 +38,7 @@ const products = [
     price: 150,
     minQuantity: 500,
     countInStock: 12,
-    rating: 4.6,
+    rating: 4,
     numReviews: 17,
   },
 ]
