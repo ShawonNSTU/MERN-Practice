@@ -1,6 +1,5 @@
 const products = [
   {
-    _id: '1',
     name: 'Black Grapes',
     image: '/images/black-grapes.jpg',
     description:
@@ -14,7 +13,6 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: '2',
     name: 'Malta',
     image: '/images/malta.jpg',
     description:
