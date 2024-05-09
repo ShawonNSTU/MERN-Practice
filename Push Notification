@@ -1,0 +1,10 @@
+https://api.smartthings.com//v1/notification (POST)
+
+{
+    "locationId": "4f310446-4a6c-4220-a38d-bfe3ad29c7f9",
+    "type": "ALERT",
+    "title": "Next Smartthings Web",
+    "code": "ST_HU_V_0001"
+}
+
+bearer: c9a42f85-d587-4b91-9517-66e5585434b6
